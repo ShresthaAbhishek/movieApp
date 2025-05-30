@@ -20,12 +20,11 @@ A simple React app to search and browse movies using the TMDB API.
 1. Clone the repo & install:
    ```bash
    npm install
-   ```
 2. Create a .env file in the root:
   ```bash
-VITE_TMDB_API_KEY=your_tmdb_bearer_token
+   VITE_TMDB_API_KEY=your_tmdb_bearer_token
 ```
 3. Run the app:
   ```bash
-npm run dev
+  npm run dev
 ```
